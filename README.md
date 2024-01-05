@@ -20,4 +20,5 @@ Breast cancer is a prevalent disease with significant impact on health. Early di
 - Particle Swarm Optimization
 
 ## File Description
-- `BreastCancerClassification.pdf`: A comprehensive document detailing the theoretical background, methodology, and results of the project.
+- `BreastCancerClassification.pdf`## File Description
+- [CancerDiagnosis-ANN-PSO Methodology (PDF)](BreastCancerClassification.pdf): A comprehensive document detailing the theoretical background, methodology, and results of the project.
